@@ -1,0 +1,2 @@
+/Users/administrador/AndroidStudioProjects/ActivityLifeCycleAS/app/build/intermediates/classes/debug
+/Users/administrador/AndroidStudioProjects/ActivityLifeCycleAS/app/build/intermediates/pre-dexed/debug/android-support-v13-1370530ebdbae1f9c0d164db0bd0ddd47ce0770d.jar
